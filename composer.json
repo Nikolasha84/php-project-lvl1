@@ -1,0 +1,14 @@
+{
+    "name": "andrew/php-project-lvl1",
+    "description": "my first project",
+    "authors": [
+        {
+            "name": "Andrey Sychev",
+            "email": "rekreg@bk.ru"
+        }
+    ],
+    "license": "MIT",
+    "bin": ["bin/brain-games"],
+    "require": {}
+}
+
